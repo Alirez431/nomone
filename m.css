@@ -93,16 +93,16 @@
     #a2 a {
         font-size: 10px !important;
     }
-    #grid img {
-        margin: 10px 0;
-    }
+   
 }
 
 @media (max-width:600px) {
     form {
        border-radius: 0 !important;
     }
-   
+    #grid img {
+        margin: 10px 0;
+    }
 }
 
 /* @media (max-width:770px) {
