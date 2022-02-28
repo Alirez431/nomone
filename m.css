@@ -57,6 +57,9 @@
       }
        
     }
+    #grid img {
+        margin: 10px;
+    }
 
 @media (max-width:576px){
     #black {
@@ -92,9 +95,7 @@
     #a2 a {
         font-size: 10px !important;
     }
-    #grid img {
-        margin: 10px 0;
-    }
+  
 }
 
 @media (max-width:600px) {
